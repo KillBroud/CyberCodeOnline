@@ -516,7 +516,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Omitir tiempo gratis (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "Salteado de tiempo gratis (${itemSkipMinutes} min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -710,7 +710,7 @@
  	 	 	},
  	 	 	"itemUpgradeButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "potenciar",
+ 	 	 	 	 	"trans": "Mejorar",
  	 	 	 	 	"eng": "upgrade"
  	 	 	 	}
  	 	 	},
@@ -878,7 +878,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"date"
  	 	 	 	],
- 	 	 	 	"trans": "Archivo creado en ${date}",
+ 	 	 	 	"trans": "Archivo creado el ${date}",
  	 	 	 	"eng": "file created at ${date}"
  	 	 	},
  	 	 	"numOfMember": {
@@ -1075,7 +1075,7 @@
  	 	 	},
  	 	 	"marketShortcut": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Amadón",
+ 	 	 	 	 	"trans": "Amadon",
  	 	 	 	 	"eng": "Amadon"
  	 	 	 	}
  	 	 	},
@@ -1086,7 +1086,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"abortWarningTitle": {
- 	 	 	 	"trans": "¿Deseas abortar?",
+ 	 	 	 	"trans": "¿Seguro de que quieres abortar?",
  	 	 	 	"eng": "Are you sure you want to abort?"
  	 	 	},
  	 	 	"abortWarning": {
@@ -1134,7 +1134,7 @@
  	 	 	 	 	 	"eng": "Get even better equipments!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Tu equipamiento actual es obsoleto para tu nivel, intenta imprimir equipo más fuerte para reemplazarlo",
+ 	 	 	 	 	 	"trans": "Tu equipamiento actual se ve algo obsoleto para tu nivel, intenta imprimir equipo más fuerte para reemplazarlo",
  	 	 	 	 	 	"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
  	 	 	 	 	}
  	 	 	 	},
@@ -1167,7 +1167,7 @@
  	 	 	 	 	 	"eng": "Acquire AI Cores"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Puedes obtener Núcleos de IA: \r\n        - Hurgando en varios lugares.\r\n        - Fabricándolos con Procesadores Hash y Restos Tecnológicos.\r\n        - Saqueando enemigos de todas las ubicaciones.",
+ 	 	 	 	 	 	"trans": "Puedes obtener Núcleos de IA: \r\n        - Recolectando en varios lugares.\r\n        - Fabricándolos con Procesadores Hash y Restos Tecnológicos.\r\n        - Saqueando enemigos de todas las ubicaciones.",
  	 	 	 	 	 	"eng": "You may get AI Cores by: \r\n        - Scavenge in various locations\r\n        - Crafting with Hash Processors and Tech Scraps\r\n        - Looting from enemies in all locations"
  	 	 	 	 	}
  	 	 	 	},
@@ -1199,7 +1199,7 @@
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Desplegando explotación remoto, paciencia...",
+ 	 	 	 	 	 	"trans": "Desplegando explotación remoto, espera...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -1636,10 +1636,10 @@
  	 	 	 	}
  	 	 	},
  	 	 	"noHealingPrompt": {
- 	 	 	 	"trans": "Deberías comprar algún objeto curativo primero",
+ 	 	 	 	"trans": "Tal vez deberias comprar algunos objeto curativos primero no?",
  	 	 	 	"eng": "Maybe buy some healing item first?",
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "Parece que no tienes ningun Pain Away contigo, cómpralas en el Mercado Trinoky en la ciudad antes de entrar en Mazmorras, ya que no regeneras HP después de cada pelea",
+ 	 	 	 	 	"trans": "Parece que no tienes ningun Aliviador contigo, cómpralas en el Mercado Trinoky en la ciudad antes de entrar en Mazmorras, ya que no regeneras HP después de cada pelea",
  	 	 	 	 	"eng": "Seems like you dont have any Pain Away with you, purchase it from Trinoky Mart in the city first before entering dungeons, since you will not regen after battles in dungeon"
  	 	 	 	},
  	 	 	 	"cancel": {
@@ -2568,7 +2568,7 @@
  	 	},
  	 	"bargain": {
  	 	 	"name": {
- 	 	 	 	"trans": "Regateador",
+ 	 	 	 	"trans": "Negociador",
  	 	 	 	"eng": "Bargain"
  	 	 	},
  	 	 	"description": {
@@ -2608,7 +2608,7 @@
  	 	},
  	 	"stunEvade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Evasión de aturdimiento",
+ 	 	 	 	"trans": "Evasión del aturdimiento",
  	 	 	 	"eng": "Stun evade"
  	 	 	},
  	 	 	"description": {
@@ -2668,7 +2668,7 @@
  	 	},
  	 	"upgradeChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Maestría de Calibración",
+ 	 	 	 	"trans": "Maestría en la Calibración",
  	 	 	 	"eng": "Calibration Chance"
  	 	 	},
  	 	 	"description": {
@@ -2694,7 +2694,7 @@
  	 	},
  	 	"rngInterferer": {
  	 	 	"description": {
- 	 	 	 	"trans": "Probabilidad adicional de drop de Objetos Épicos en Contenedores ",
+ 	 	 	 	"trans": "Probabilidad adicional en el drop de Objetos Épicos mediante Contenedores ",
  	 	 	 	"eng": "Additional epic drop chance from containers"
  	 	 	}
  	 	},
@@ -3821,11 +3821,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dolor",
+ 	 	 	 	"trans": "Aliviador",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa las pastillas Pain Away™ para aliviar tu dolor!",
+ 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa las pastillas Aliviador™ para aliviar tu dolor!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -3931,11 +3931,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Spray Pain Away",
+ 	 	 	 	"trans": "Spray Aliviador",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Tus amigos y tú tienen dolor de cabeza? ¡Usa el Spray Pain Away™ para aliviar el dolor!",
+ 	 	 	 	"trans": "¿Tus amigos y tú tienen dolor de cabeza? ¡Usa el Spray Aliviador™ para aliviar el dolor!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
